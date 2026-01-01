@@ -1,3 +1,18 @@
-.obsidian/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Eleventy
+_site/
+
+# MacOS
 .DS_Store
 Icon?
+
+# Local env
+.env
+
+# Obsidian
+.obsidian/
