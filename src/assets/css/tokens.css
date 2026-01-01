@@ -1,0 +1,22 @@
+:root {
+  /* Backgrounds */
+  --bg-primary: #0F1115;
+  --bg-secondary: #171A21;
+  --bg-elevated: #1E2230;
+
+  /* Text */
+  --text-primary: #F4F5F7;
+  --text-secondary: #C9CCD6;
+  --text-muted: #8B90A0;
+  --text-disabled: #5F6475;
+
+  /* Accents */
+  --accent-primary: #3A339C;
+  --accent-hover: #4C44C4;
+  --accent-subtle: #2A2855;
+
+  /* UI chrome */
+  --border-subtle: #262A36;
+  --border-strong: #30354A;
+  --focus-ring: rgba(58, 51, 156, 0.6);
+}

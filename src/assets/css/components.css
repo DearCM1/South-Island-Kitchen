@@ -1,0 +1,26 @@
+.button {
+  background: var(--accent-primary);
+  color: var(--text-primary);
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--accent-hover);
+}
+
+.button--secondary {
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-strong);
+}
+
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.25rem;
+}
