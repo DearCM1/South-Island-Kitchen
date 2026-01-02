@@ -1,8 +1,8 @@
 # South Island Kitchen
 
-South Island Kitchen is a lightweight, static recipe website built with **[Eleventy (11ty)](https://www.11ty.dev/)** and deployed via **[Cloudflare Pages](https://pages.cloudflare.com/)**. The project is intentionally minimal for fast load times and clean layouts.
+South Island Kitchen is a lightweight, static recipe website built with **[Eleventy (11ty)](https://www.11ty.dev/)** and deployed via **[Cloudflare Pages](https://pages.cloudflare.com/)**. The project is intentionally minimal to ensure fast load times and clean layouts.
 
-This repo initially started as a simple host of markdown recipe files but has since been converted to as a source project for a dedicated website, which can be found at [southislandkitchen.uk](https://southislandkitchen.uk).
+This repo initially started as a simple host for markdown recipe files but has since been converted into a project for a dedicated website, which can be found at **[southislandkitchen.uk](https://southislandkitchen.uk)**.
 
 ---
 
