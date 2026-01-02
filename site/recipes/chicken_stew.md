@@ -1,5 +1,6 @@
 ---
 title: Chicken Stew 🍲
+tags: [european]
 ---
 
 (4.5⭐️)

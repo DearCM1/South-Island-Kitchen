@@ -1,5 +1,6 @@
 ---
 title: Lentil and Bean Ratatouille 🐭
+tags: [european]
 ---
 
 A vegetable and legume ratatouille-style stew built for max-style flavour which reheats exceptionally well and tastes even better on day two.

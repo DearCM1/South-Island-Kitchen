@@ -4,9 +4,56 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="/assets/css/main.css" />
-    <title>Hello</title>
+    <title>South Island Kitchen</title>
   </head>
   <body>
-    <p>world</p>
+    <header>
+      <h1>South Island Kitchen</h1>
+    </header>
+    <main>
+      <p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chef's exceptional and worldly palates.</p>
+      <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
+      <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
+      <h2>Fish</h2>
+      {% for fish in collections.fish %}
+        <ul>
+          <li>
+            <h3><a href="{{ fish.url }}">{{ fish.data.title }}</a></h3>
+          </li>
+        </ul>
+      {% endfor %}
+      <h2>Asian</h2>
+      {% for asian in collections.asian %}
+        <ul>
+          <li>
+            <h3><a href="{{ asian.url }}">{{ asian.data.title }}</a></h3>
+          </li>
+        </ul>
+      {% endfor %}
+      <h2>European</h2>
+      {% for european in collections.european %}
+        <ul>
+          <li>
+            <h3><a href="{{ european.url }}">{{ european.data.title }}</a></h3>
+          </li>
+        </ul>
+      {% endfor %}
+      <h2>Salads</h2>
+      {% for salad in collections.salad %}
+        <ul>
+          <li>
+            <h3><a href="{{ salad.url }}">{{ salad.data.title }}</a></h3>
+          </li>
+        </ul>
+      {% endfor %}
+      <h2>Deserts</h2>
+      {% for desert in collections.salad %}
+        <ul>
+          <li>
+            <h3><a href="{{ desert.url }}">{{ desert.data.title }}</a></h3>
+          </li>
+        </ul>
+      {% endfor %}
+    </main>
   </body>
 </html>

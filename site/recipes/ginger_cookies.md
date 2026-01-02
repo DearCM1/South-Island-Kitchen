@@ -1,5 +1,6 @@
 ---
 title: Chewy Ginger Cookies 🍪
+tags: [desert]
 ---
 
 (5.0⭐️)

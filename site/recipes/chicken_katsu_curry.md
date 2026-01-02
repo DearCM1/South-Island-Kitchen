@@ -1,5 +1,6 @@
 ---
 title: Katsu Chicken Curry 🍛
+tags: [asian]
 ---
 
 (5.0⭐️)

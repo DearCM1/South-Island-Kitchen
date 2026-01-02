@@ -1,5 +1,6 @@
 ---
 title: Lentil Dhal 🥘
+tags: [asian]
 ---
 
 (5.0⭐️) 💚

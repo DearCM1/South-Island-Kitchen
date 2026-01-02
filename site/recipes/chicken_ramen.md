@@ -1,5 +1,6 @@
 ---
 title: Chicken Ramen 🍜
+tags: [asian]
 ---
 
 (5.0⭐️)

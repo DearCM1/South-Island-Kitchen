@@ -1,5 +1,6 @@
 ---
 title: The Curry Secret
+tags: [asian]
 ---
 ## The Curry Sauce
 

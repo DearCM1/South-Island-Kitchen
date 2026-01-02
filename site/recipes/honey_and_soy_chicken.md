@@ -1,5 +1,6 @@
 ---
 title: Honey and Soy Chicken 🐝
+tags: [asian]
 ---
 
 (4.0⭐️)

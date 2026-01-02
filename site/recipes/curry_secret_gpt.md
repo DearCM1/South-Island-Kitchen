@@ -1,5 +1,6 @@
 ---
 title: The Curry Secret (GPT Enhanced)
+tags: [asian]
 ---
 ## The Curry Sauce
 

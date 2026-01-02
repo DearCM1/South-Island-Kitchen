@@ -1,5 +1,6 @@
 ---
 title: Dauphinoise Potatoes 🥔
+tags: [european]
 ---
 
 (5.0⭐️)

@@ -1,5 +1,6 @@
 ---
 title: Beetroot Hummus and Roast Veg Buddha Bowl 🥗
+tags: [salad]
 ---
 
 (3.5⭐️) 💚 

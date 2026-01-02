@@ -1,5 +1,6 @@
 ---
 title: Mushroom & Cheese Gnocchi Bake 🍄‍🟫
+tags: [european]
 ---
 
 (5.0⭐️)

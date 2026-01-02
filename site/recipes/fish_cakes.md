@@ -1,5 +1,6 @@
 ---
 title: Fish Cakes 🐟🍰
+tags: [fish]
 ---
 
 (3.5⭐️)

@@ -1,5 +1,6 @@
 ---
 title: Caponata Parmigiana 🍆🫒
+tags: [european]
 ---
 
 (5.0⭐️)

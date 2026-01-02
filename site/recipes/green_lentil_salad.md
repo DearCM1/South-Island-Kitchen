@@ -1,5 +1,6 @@
 ---
 title: Quinoa and Green Lentil Salad 🥗
+tags: [salad]
 ---
 
 (5.0⭐️) 💚

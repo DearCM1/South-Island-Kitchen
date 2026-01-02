@@ -7,6 +7,11 @@
     <title>{{ title or "South Island Kitchen" }}</title>
   </head>
   <body>
-    {{ content }}
+    <header>
+      <h1>{{ title | default: "Recipe"}}</h1>
+    </header>
+    <main>
+      {{ content }}
+    </main>
   </body>
 </html>
