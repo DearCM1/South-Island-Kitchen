@@ -8,10 +8,15 @@
   </head>
   <body>
     <header>
-      <h1>{{ title | default: "Recipe"}}</h1>
+      <h1>{{ title | default: "Recipe" }}</h1>
     </header>
+
     <main>
       {{ content }}
     </main>
+
+    <footer>
+      <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
+    </footer>
   </body>
 </html>
