@@ -1,0 +1,8 @@
+Copyright © 2026 Calum Dear
+
+All rights reserved.
+
+No part of this repository, including but not limited to its content, design,
+templates, stylesheets, or source files, may be copied, modified, published,
+distributed, or used for any purpose without prior written permission from the
+copyright holder.

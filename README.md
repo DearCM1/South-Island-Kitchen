@@ -1,42 +1,160 @@
-# Recipes
+# South Island Kitchen
 
-Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chef's exceptional and worldly palates.
+South Island Kitchen is a lightweight, static recipe website built with **[Eleventy (11ty)](https://www.11ty.dev/)** and deployed via **[Cloudflare Pages](https://pages.cloudflare.com/)**. The project is intentionally minimal for fast load times and clean layouts.
 
-Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.
+This repo initially started as a simple host of markdown recipe files but has since been converted to as a source project for a dedicated website, which can be found at [southislandkitchen.uk](https://southislandkitchen.uk).
 
-Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
+---
 
-## Fish
+## Project Goals
 
-- [Fish Cakes](files/fish_cakes.md) (3.5⭐️)
+* Publish personal recipes in a clean, distraction-free format
+* Use static-site tooling only (no runtime backend)
+* Ensure fast global delivery via Cloudflare
+* Maintain full ownership of content and layout
 
-## Asian
+---
 
-- [Honey and Soy Chicken](files/honey_and_soy_chicken.md) (4.0⭐️)
-- [Lentil Dhal](lentil_dhal.md) (5.0⭐️) 💚
-- [Chicken Ramen](files/chicken_ramen.md) (5.0⭐️)
-- [Gochujang Squash and Prawns](files/roasted_gochujang_squash.md) (4.0⭐️)
-- [Chicken Bhuna](files/curry_secret.md) ([GPT enhanced](files/curry_secret_gpt.md))
-- [Chicken Katsu Curry](files/chicken_katsu_curry.md) (5.0⭐️)
+## Tech Stack
 
-## European
+* **[Eleventy (11ty)](https://www.11ty.dev/)** – static site generator
+* **Markdown** – recipe content
+* **HTML / Liquid** – templating
+* **Vanilla CSS** – styling (dark-mode first)
+* **[Cloudflare Pages](https://pages.cloudflare.com/)** – hosting & CI/CD
 
-- [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️)
-- [Chicken and Leek Pie](files/chicken_pie.md) (5.0⭐️)
-- [Chicken Stew](files/chicken_stew.md) (4.5⭐️)
-- [Mushroom & Cheese Gnocchi Bake](files/mushroom_gnocchi_bake.md) (5.0⭐️)
-- [Lentil and Bean Ratatouille](files/lentil_and_bean_ratatouille.md) (3.5⭐️) 💚
+---
 
-## Salads
+## Repository Structure
 
-- [Beetroot Hummus and Roast Veg Buddha Bowl](files/beetroot_buddha_bowl.md) (3.5⭐️) 💚
-- [Quinoa and Green Lentil Salad](files/green_lentil_salad.md) (5.0⭐️) 💚
+```text
+.
+├── site/
+│   ├── _includes/
+│   │   └── layouts/
+│   │       └── base.html
+│   ├── assets/
+│   │   └── css/
+│   │       └── main.css
+│   │       └── ... .css
+│   ├── recipes/
+│   │   └── example-recipe.md
+│   └── index.html    # homepage
+├── .eleventy.js
+├── package-lock.json
+├── package.json
+├── README.md
+└── _site/            # build output (ignored in git)
+```
 
-## Sides and sauces
+Notes:
 
-> Note: sides and sauces are unrated.
+* `site/` is the Eleventy input directory
+* `_site/` is the generated output directory
+* Static assets are passed through from `src/assets/`
 
-## Deserts
+---
 
-- [Brownies](files/brownies.md) (5.0⭐️)
-- [Chewy Ginger Cookies](files/ginger_cookies.md) (5.0⭐️)
+## Local Development
+
+### Prerequisites
+
+* Node.js (LTS recommended)
+* npm
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npx eleventy --serve
+```
+
+This will start a local server (typically at `http://localhost:8080`) with live rebuilds on file changes.
+
+---
+
+## Eleventy Configuration
+
+Eleventy is configured via `.eleventy.js`.
+
+Key behaviours:
+
+* Input directory: `site/`
+* Output directory: `_site/`
+* Static assets copied via `addPassthroughCopy("site/assets")`
+
+If assets do not load in production, confirm:
+
+* Asset paths are absolute (`/assets/css/main.css`)
+* Passthrough copy is configured
+* Only **one** `module.exports` block exists in `.eleventy.js`
+
+---
+
+## Deployment (Cloudflare Pages)
+
+Deployment is fully automated via GitHub integration.
+
+### Cloudflare Build Settings
+
+* **Framework preset:** None
+* **Build command:**
+
+  ```bash
+  npx eleventy
+  ```
+
+* **Build output directory:**
+
+  ```text
+  _site
+  ```
+
+On each push to the master branch, Cloudflare Pages rebuilds and deploys the site.
+
+---
+
+## Content Authoring
+
+Recipes are written as Markdown files with front matter.
+
+Example:
+
+```markdown
+---
+title: Simple Sourdough
+---
+
+## Ingredients
+
+- Flour
+- Water
+- Salt
+
+## Method
+
+1. Mix
+2. Rest
+3. Bake
+```
+
+---
+
+## Licensing & Copyright
+
+All content, design, and source files in this repository are the exclusive property of Calum Dear.
+
+**All rights reserved**.
+
+This project uses third-party tools (including Eleventy) for build and deployment purposes only. No third-party source code is redistributed as part of this repository.
+
+---
+
+## Status
+
+This project is intentionally iterative.
