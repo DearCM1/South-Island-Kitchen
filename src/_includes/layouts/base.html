@@ -5,18 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="/assets/css/main.css" />
     <title>{{ title | default: "South Island Kitchen" }}</title>
+    <link rel="icon" type="image/x-icon" href="assets/logo/favicon.png">
   </head>
   <body>
-    <header>
-      <h1>{{ title | default: "Recipe" }}</h1>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-brand" href="/">
+          <img
+            src="/assets/logo/logo.png"
+            alt="South Island Kitchen logo"
+            class="site-brand__mark"
+          />
+          <div class="site-brand__text">
+            <span class="site-brand__name">South Island Kitchen</span>
+            <span class="site-brand__tagline">Get fed.</span>
+          </div>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/#fish">Fish</a>
+          <a href="/#asian">Asian</a>
+          <a href="/#european">European</a>
+          <a href="/#salads">Salads</a>
+          <a href="/#deserts">Deserts</a>
+        </nav>
+      </div>
     </header>
 
-    <main>
-      {{ content }}
+    <main class="page">
+      <div class="content-shell">
+        <h1 class="page-title">{{ title | default: "Recipe" }}</h1>
+        {{ content }}
+      </div>
     </main>
 
-    <footer>
-      <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
+    <footer class="site-footer">
+      <div class="content-shell">
+        <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
+      </div>
     </footer>
+    <script>
+      (() => {
+        const header = document.querySelector(".site-header");
+        if (!header) return;
+
+        const handleScroll = () => {
+          const isCompact = window.scrollY > 12;
+          header.classList.toggle("site-header--compact", isCompact);
+        };
+
+        window.addEventListener("scroll", handleScroll, { passive: true });
+        handleScroll();
+      })();
+    </script>
   </body>
 </html>

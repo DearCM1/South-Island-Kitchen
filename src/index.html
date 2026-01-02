@@ -1,64 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
-    <title>South Island Kitchen</title>
-  </head>
-  <body>
-    <header>
-      <h1>South Island Kitchen</h1>
-    </header>
+---
+layout: layouts/base.html
+title: South Island Kitchen
+---
 
-    <main>
-      <p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chef's exceptional and worldly palates.</p>
-      <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
-      <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
-      <h2>Fish</h2>
-      {% for fish in collections.fish %}
-        <ul>
-          <li>
-            <h3><a href="{{ fish.url }}">{{ fish.data.title }}</a></h3>
-          </li>
-        </ul>
-      {% endfor %}
-      <h2>Asian</h2>
-      {% for asian in collections.asian %}
-        <ul>
-          <li>
-            <h3><a href="{{ asian.url }}">{{ asian.data.title }}</a></h3>
-          </li>
-        </ul>
-      {% endfor %}
-      <h2>European</h2>
-      {% for european in collections.european %}
-        <ul>
-          <li>
-            <h3><a href="{{ european.url }}">{{ european.data.title }}</a></h3>
-          </li>
-        </ul>
-      {% endfor %}
-      <h2>Salads</h2>
-      {% for salad in collections.salad %}
-        <ul>
-          <li>
-            <h3><a href="{{ salad.url }}">{{ salad.data.title }}</a></h3>
-          </li>
-        </ul>
-      {% endfor %}
-      <h2>Deserts</h2>
-      {% for desert in collections.salad %}
-        <ul>
-          <li>
-            <h3><a href="{{ desert.url }}">{{ desert.data.title }}</a></h3>
-          </li>
-        </ul>
-      {% endfor %}
-    </main>
-    
-    <footer>
-      <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
-    </footer>
-  </body>
-</html>
+<p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chef's exceptional and worldly palates.</p>
+<p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
+<p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
+
+<section id="fish" class="recipe-section">
+  <h2>Fish</h2>
+  <ul class="recipe-list">
+    {% for fish in collections.fish %}
+      <li>
+        <h3><a href="{{ fish.url }}">{{ fish.data.title }}</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="asian" class="recipe-section">
+  <h2>Asian</h2>
+  <ul class="recipe-list">
+    {% for asian in collections.asian %}
+      <li>
+        <h3><a href="{{ asian.url }}">{{ asian.data.title }}</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="european" class="recipe-section">
+  <h2>European</h2>
+  <ul class="recipe-list">
+    {% for european in collections.european %}
+      <li>
+        <h3><a href="{{ european.url }}">{{ european.data.title }}</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="salads" class="recipe-section">
+  <h2>Salads</h2>
+  <ul class="recipe-list">
+    {% for salad in collections.salad %}
+      <li>
+        <h3><a href="{{ salad.url }}">{{ salad.data.title }}</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="deserts" class="recipe-section">
+  <h2>Deserts</h2>
+  <ul class="recipe-list">
+    {% for desert in collections.desert %}
+      <li>
+        <h3><a href="{{ desert.url }}">{{ desert.data.title }}</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

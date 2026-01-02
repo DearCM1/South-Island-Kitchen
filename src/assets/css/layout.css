@@ -1,0 +1,142 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background: rgba(23, 26, 33, 0.95);
+  border-bottom: 1px solid var(--border-subtle);
+  backdrop-filter: blur(8px);
+  z-index: 50;
+  transition: box-shadow 200ms ease, transform 200ms ease;
+}
+
+.site-header__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.1rem 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: padding 180ms ease;
+}
+
+.site-header--compact .site-header__inner {
+  padding: 0.6rem 1.25rem;
+}
+
+.site-header--compact {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--text-primary);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.site-brand__mark {
+  height: 52px;
+  width: auto;
+  transition: transform 180ms ease;
+}
+
+.site-header--compact .site-brand__mark {
+  transform: scale(0.88);
+}
+
+.site-brand__text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.site-brand__name {
+  font-size: 1rem;
+}
+
+.site-brand__tagline {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: auto;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  color: var(--text-secondary);
+  font-weight: 600;
+  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  transition: background-color 150ms ease, color 150ms ease;
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible {
+  color: var(--text-primary);
+  background: var(--accent-subtle);
+  outline: none;
+}
+
+.page {
+  padding: 1.5rem 1.25rem 3rem;
+}
+
+.content-shell {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.page-title {
+  margin: 0 0 1rem;
+  font-size: clamp(1.8rem, 2.5vw, 2.4rem);
+  letter-spacing: -0.01em;
+}
+
+.recipe-section {
+  margin-top: 1.5rem;
+}
+
+.recipe-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.recipe-list h3 {
+  margin: 0;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border-subtle);
+  padding: 1.5rem 1.25rem 2rem;
+  background: var(--bg-secondary);
+}
+
+.site-footer p {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 720px) {
+  .site-header__inner {
+    align-items: flex-start;
+  }
+
+  .site-brand__mark {
+    height: 46px;
+  }
+
+  .site-nav {
+    width: 100%;
+    margin-left: 0;
+  }
+}
