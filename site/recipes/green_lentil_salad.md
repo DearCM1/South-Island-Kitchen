@@ -1,11 +1,6 @@
-# Quinoa and Green Lentil Salad 🥗
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1DWr63WkZWsIw7sjJro2M3pt8v3We3dtt)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
-
-[//]: # (remember to give rating and delete the green heart if not a whole-health dish)
+title: Quinoa and Green Lentil Salad 🥗
+---
 
 (5.0⭐️) 💚
 

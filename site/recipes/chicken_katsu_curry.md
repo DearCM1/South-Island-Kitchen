@@ -1,9 +1,6 @@
-# Katsu Chicken Curry 🍛
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1Bs1qCxk45lpBhWFWEgpTtXWZWcbMv4XY)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
+title: Katsu Chicken Curry 🍛
+---
 
 (5.0⭐️)
 

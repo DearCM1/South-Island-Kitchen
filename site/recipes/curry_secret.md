@@ -1,4 +1,5 @@
-# The Curry Secret
+---
+title: The Curry Secret
 ---
 ## The Curry Sauce
 

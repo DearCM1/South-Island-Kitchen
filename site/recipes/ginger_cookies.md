@@ -1,9 +1,6 @@
-# Chewy Ginger Cookies 🍪
 ---
-
-![image](https://drive.google.com/uc?export=view&id=16xFh7wluiTToEkQtN3x7NOiMQ7PK7V00)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
+title: Chewy Ginger Cookies 🍪
+---
 
 (5.0⭐️)
 

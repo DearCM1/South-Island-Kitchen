@@ -1,8 +1,6 @@
-# Mushroom & Cheese Gnocchi Bake 🍄‍🟫
-
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1wlSM3ZiCAySsZG-nU_hF-f84kTW9iqRT)
+title: Mushroom & Cheese Gnocchi Bake 🍄‍🟫
+---
 
 (5.0⭐️)
 

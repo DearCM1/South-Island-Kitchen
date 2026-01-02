@@ -1,12 +1,6 @@
-# Honey and Soy Chicken 🐝
-
 ---
-
-![image](https://drive.google.com/uc?export=view&id=19-S2unuvm4syn8Nf7zu8-l-Q4kXzIX8m)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
-
-[//]: # (remember to give rating and delete the green heart if not a whole-health dish)
+title: Honey and Soy Chicken 🐝
+---
 
 (4.0⭐️)
 

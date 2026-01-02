@@ -1,8 +1,6 @@
-# Roasted Gochujang Squash and Prawns 🦐
-
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1V--MCbE6A9BUFsWWThn9hJhAHKBrL8jz)
+title: Roasted Gochujang Squash and Prawns 🦐
+---
 
 (4.0⭐️)
 

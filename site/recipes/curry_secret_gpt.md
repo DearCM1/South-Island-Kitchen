@@ -1,4 +1,5 @@
-# The Curry Secret (GPT Enhanced)
+---
+title: The Curry Secret (GPT Enhanced)
 ---
 ## The Curry Sauce
 

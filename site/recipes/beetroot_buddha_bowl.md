@@ -1,7 +1,6 @@
-# Beetroot Hummus and Roast Veg Buddha Bowl 🥗
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1OuXEkk7LstXn7LccWqALnejQ2NMWXUf_)
+title: Beetroot Hummus and Roast Veg Buddha Bowl 🥗
+---
 
 (3.5⭐️) 💚 
 

@@ -1,4 +1,5 @@
-# Dauphinoise Potatoes 🥔
+---
+title: Dauphinoise Potatoes 🥔
 ---
 
 (5.0⭐️)

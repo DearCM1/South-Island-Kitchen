@@ -1,11 +1,6 @@
-# Lentil Dhal 🥘
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1zn_sxDfvUV4HnuqwD7JuVec5GbHlM5Cq)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
-
-[//]: # (remember to give rating and delete the green heart if not a whole-health dish)
+title: Lentil Dhal 🥘
+---
 
 (5.0⭐️) 💚
 

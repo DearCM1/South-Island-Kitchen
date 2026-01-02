@@ -1,9 +1,6 @@
-# Chicken and leek pie 🔥🐔🔥
 ---
-
-![image](https://drive.google.com/uc?export=view&id=18UtVw7fKm4-0d4mBLX0HGStVMQKvfu7a)
-
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
+title: Chicken and leek pie 🔥🐔🔥
+---
 
 (5.0⭐️)
 
