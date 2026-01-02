@@ -1,9 +1,9 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("site/assets");
+  eleventyConfig.addPassthroughCopy("src/assets");
 
   return {
     dir: {
-      input: "site",
+      input: "src",
       output: "_site"
     }
   };

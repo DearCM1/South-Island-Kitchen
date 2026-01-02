@@ -29,7 +29,7 @@ This repo initially started as a simple host of markdown recipe files but has si
 
 ```text
 .
-├── site/
+├── src/
 │   ├── _includes/
 │   │   └── layouts/
 │   │       └── base.html
@@ -49,7 +49,7 @@ This repo initially started as a simple host of markdown recipe files but has si
 
 Notes:
 
-* `site/` is the Eleventy input directory
+* `src/` is the Eleventy input directory
 * `_site/` is the generated output directory
 * Static assets are passed through from `src/assets/`
 
@@ -84,9 +84,9 @@ Eleventy is configured via `.eleventy.js`.
 
 Key behaviours:
 
-* Input directory: `site/`
+* Input directory: `src/`
 * Output directory: `_site/`
-* Static assets copied via `addPassthroughCopy("site/assets")`
+* Static assets copied via `addPassthroughCopy("src/assets")`
 
 If assets do not load in production, confirm:
 
