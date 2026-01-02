@@ -10,10 +10,10 @@
   --text-muted: #8B90A0;
   --text-disabled: #5F6475;
 
-  /* Accents */
-  --accent-primary: #3A339C;
-  --accent-hover: #4C44C4;
-  --accent-subtle: #2A2855;
+/* Accents */
+--accent-primary: #6B63D9;
+--accent-hover:   #7D75F0;
+--accent-subtle:  #4A4590;
 
   /* UI chrome */
   --border-subtle: #262A36;

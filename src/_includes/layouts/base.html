@@ -33,8 +33,10 @@
 
     <main class="page">
       <div class="content-shell">
-        <h1 class="page-title">{{ title | default: "Recipe" }}</h1>
-        {{ content }}
+        <div class="content-card">
+          <h1 class="page-title">{{ title | default: "Recipe" }}</h1>
+          {{ content }}
+        </div>
       </div>
     </main>
 
