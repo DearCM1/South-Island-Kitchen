@@ -1,7 +1,7 @@
 ---
 title: Honey and Soy Chicken 🐝
 tags: [asian]
-headerImage: /assets/images/honey_and_soy_chicken.jpeg
+headerImage: /assets/images/honey-and-soy-chicken.jpeg
 ---
 (4.0⭐️)
 

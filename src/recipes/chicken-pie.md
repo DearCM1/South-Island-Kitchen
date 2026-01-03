@@ -1,7 +1,7 @@
 ---
 title: Chicken and leek pie 🔥🐔🔥
 tags: [european]
-headerImage: /assets/images/chicken_pie.jpeg
+headerImage: /assets/images/chicken-pie.jpeg
 ---
 (5.0⭐️)
 

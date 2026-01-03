@@ -1,7 +1,7 @@
 ---
 title: Chicken Stew 🍲
 tags: [european]
-headerImage: /assets/images/chicken_stew.jpeg
+headerImage: /assets/images/chicken-stew.jpeg
 ---
 (4.5⭐️)
 

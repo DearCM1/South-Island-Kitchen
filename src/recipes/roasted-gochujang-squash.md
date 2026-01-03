@@ -1,7 +1,7 @@
 ---
 title: Roasted Gochujang Squash and Prawns 🦐
 tags: [asian]
-headerImage: /assets/images/roasted_gochujang_squash.jpeg
+headerImage: /assets/images/roasted-gochujang-squash.jpeg
 ---
 (4.0⭐️)
 

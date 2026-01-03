@@ -1,7 +1,7 @@
 ---
 title: Lentil Dhal 🥘
 tags: [asian]
-headerImage: /assets/images/lentil_dhal.jpeg
+headerImage: /assets/images/lentil-dhal.jpeg
 ---
 (5.0⭐️) 💚
 

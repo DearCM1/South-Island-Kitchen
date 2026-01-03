@@ -1,7 +1,7 @@
 ---
 title: Caponata Parmigiana 🍆🫒
 tags: [european]
-headerImage: /assets/images/caponata_parmigiana.jpeg
+headerImage: /assets/images/caponata-parmigiana.jpeg
 ---
 (5.0⭐️)
 
