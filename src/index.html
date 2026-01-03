@@ -25,27 +25,25 @@
     </header>
 
     <main class="page">
-      <section class="header-image-card" aria-labelledby="page-title">
-        <img
-          src="{{ headerImage | default: '/assets/banner/hero_banner.jpeg' }}"
-          alt="{{ headerImageAlt | default: '' }}"
-          class="header-image-card__media"
-          loading="lazy"
-        />
-        <div class="header-image-card__overlay">
-          <h1 id="page-title" class="header-image-card__title">South Island Kitchen</h1>
-        </div>
-      </section>
-      <section id="intro" class="recipe-section">
-        <div class="content-shell">
-          <div class="content-card">
-            <p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chefs' exceptional and worldly palates.</p>
-            <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
-            <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
+      <div class="content-shell">
+        <section class="header-image-card" aria-labelledby="page-title">
+          <img
+            src="{{ headerImage | default: '/assets/banner/hero_banner.jpeg' }}"
+            alt="{{ headerImageAlt | default: '' }}"
+            class="header-image-card__media"
+            loading="lazy"
+          />
+          <div class="header-image-card__overlay">
+            <h1 id="page-title" class="header-image-card__title">South Island Kitchen</h1>
           </div>
+        </section>
+        <div class="content-card">
+          <p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chefs' exceptional and worldly palates.</p>
+          <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
+          <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
         </div>
-      </section>
-
+      </div>
+      
       <section id="fish" class="recipe-section">
         <div class="content-shell">
           <div class="content-card">
