@@ -28,7 +28,7 @@
       <div class="content-shell">
         <section class="header-image-card" aria-labelledby="page-title">
           <img
-            src="{{ headerImage | default: '/assets/logo/logo.png' }}"
+            src="{{ headerImage | default: '/assets/banner/hero_banner.jpeg' }}"
             alt="{{ headerImageAlt | default: '' }}"
             class="header-image-card__media"
             loading="lazy"
@@ -51,12 +51,10 @@
     <script>
       (() => {
         const header = document.querySelector(".site-header");
-        const hero = document.querySelector(".header-image-card");
 
         const handleScroll = () => {
           const isCompact = window.scrollY > 12;
           header?.classList.toggle("site-header--compact", isCompact);
-          hero?.classList.toggle("header-image-card--compact", isCompact);
         };
 
         const setHeaderHeight = () => {
