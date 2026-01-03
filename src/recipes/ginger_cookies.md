@@ -2,7 +2,6 @@
 title: Chewy Ginger Cookies 🍪
 tags: [desert]
 ---
-
 (5.0⭐️)
 
 Grab yourself a bottle of champagne in preparation to smash against your flagship's maiden voyage towards the discovery of our best kept secret. These chewy ginger cookies are a spice explosion in your mouth. In your big, fat, greedy mouth. Fatty.

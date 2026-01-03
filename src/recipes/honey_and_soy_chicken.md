@@ -1,8 +1,8 @@
 ---
 title: Honey and Soy Chicken 🐝
 tags: [asian]
+headerImage: /assets/images/honey_and_soy_chicken.jpeg
 ---
-
 (4.0⭐️)
 
 Welcome to the yum-zone. We used to rinse this recipe as a treat meal all the time. What's so nice about it is the contrast between the full honey and soy flavour and the fresh salad and yoghurt.

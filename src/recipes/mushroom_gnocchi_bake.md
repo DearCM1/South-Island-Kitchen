@@ -1,8 +1,8 @@
 ---
 title: Mushroom & Cheese Gnocchi Bake 🍄‍🟫
 tags: [european]
+headerImage: /assets/images/mushroom_gnocchi_bake.jpeg
 ---
-
 (5.0⭐️)
 
 One of the finest Mob Kitchen recipes, adapted for your convenience–that's right, you're welcome. This slaps. Indisputably. Best had with some simply salt and pepper grilled chicken or white fish.

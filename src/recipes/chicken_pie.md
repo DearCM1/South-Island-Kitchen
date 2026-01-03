@@ -1,8 +1,8 @@
 ---
 title: Chicken and leek pie 🔥🐔🔥
 tags: [european]
+headerImage: /assets/images/chicken_pie.jpeg
 ---
-
 (5.0⭐️)
 
 This pie bangs. Take measurements as you wish, this is one of those dishes where you just eyeball everything and taste. Works amazing to go as a gravy and veg dinner, but surprisingly also works well just using the filling with some penne pasta or rice.

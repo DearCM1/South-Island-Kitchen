@@ -1,8 +1,8 @@
 ---
 title: Chicken Ramen 🍜
 tags: [asian]
+headerImage: /assets/images/chicken_ramen.jpeg
 ---
-
 (5.0⭐️)
 
 This ramen is a solid choice which can easily be used as a base to mix and match with different veg etc. It can be a bit overwhelming on first attempt, just make sure everything is prepped before you cook.

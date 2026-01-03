@@ -1,8 +1,8 @@
 ---
 title: Katsu Chicken Curry 🍛
 tags: [asian]
+headerImage: /assets/images/chicken_katsu_curry.jpeg
 ---
-
 (5.0⭐️)
 
 The actual way to make chicken katsu curry without any of that bs about having to strain the sauce from all the veg. What is that actually about? You waste so much sauce and fibre by not blending it altogether. Moreover, the fibre from the carrots and onions add a much nicer and whole thickness to the final product. Alright, well, I'll stop going on about that. Here is a recipe for chicken katsu curry or something.

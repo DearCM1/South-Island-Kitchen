@@ -2,7 +2,6 @@
 title: Fish Cakes 🐟🍰
 tags: [fish]
 ---
-
 (3.5⭐️)
 
 I'll be honest, we haven't made these in a long time. This may be updated when we reattempt.

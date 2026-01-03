@@ -2,7 +2,6 @@
 title: Dauphinoise Potatoes 🥔
 tags: [european]
 ---
-
 (5.0⭐️)
 
 A classic, slow-cooked potato dish done properly. Low temperature, heavy seasoning, no par-cooking, no shortcuts. Rich, creamy, and structured—not sloppy.

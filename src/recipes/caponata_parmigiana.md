@@ -1,8 +1,8 @@
 ---
 title: Caponata Parmigiana 🍆🫒
 tags: [european]
+headerImage: /assets/images/caponata_parmigiana.jpeg
 ---
-
 (5.0⭐️)
 
 Medium effort show-stopper meal that is well worth the time. Follow these instructions and you'll find yourself in Juicy Town.

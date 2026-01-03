@@ -1,8 +1,8 @@
 ---
 title: Beetroot Hummus and Roast Veg Buddha Bowl 🥗
 tags: [salad]
+headerImage: /assets/images/beetroot_buddha_bowl.jpeg
 ---
-
 (3.5⭐️) 💚 
 
 More of a weekend job, high effort in regards to washing up but worth the effort, SO much fibre and good stuff.

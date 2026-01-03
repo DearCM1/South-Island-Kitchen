@@ -1,8 +1,8 @@
 ---
 title: Roasted Gochujang Squash and Prawns 🦐
 tags: [asian]
+headerImage: /assets/images/roasted_gochujang_squash.jpeg
 ---
-
 (4.0⭐️)
 
 An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy sauce rice and peas and some gochujang fried prawns.

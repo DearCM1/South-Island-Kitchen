@@ -1,8 +1,8 @@
 ---
 title: Lentil Dhal 🥘
 tags: [asian]
+headerImage: /assets/images/lentil_dhal.jpeg
 ---
-
 (5.0⭐️) 💚
 
 Alas, you may now rest, as you've discovered the best recipe for a lentil dhal that you'll ever find. Conjured up from the brilliant mind of Sir Prof. Daisy Stephens CFA MBA PhD MSc BSc. Such a simple recipe which is stellar tasty and healthy.

@@ -1,8 +1,8 @@
 ---
 title: Quinoa and Green Lentil Salad 🥗
 tags: [salad]
+headerImage: /assets/images/green_lentil_salad.jpeg
 ---
-
 (5.0⭐️) 💚
 
 This salad is actually enjoyable, the lentil hummus base makes it so incredibly moreish. The best part about this is that it's a respectable amount of calories with a shining list of good whole-foods and greens.

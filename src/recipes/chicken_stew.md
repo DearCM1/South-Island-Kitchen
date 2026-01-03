@@ -1,8 +1,8 @@
 ---
 title: Chicken Stew 🍲
 tags: [european]
+headerImage: /assets/images/chicken_stew.jpeg
 ---
-
 (4.5⭐️)
 
 You wanna chicken stew? You gotta chicken stew.
