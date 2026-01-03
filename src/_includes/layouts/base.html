@@ -26,8 +26,18 @@
 
     <main class="page">
       <div class="content-shell">
+        <section class="header-image-card" aria-labelledby="page-title">
+          <img
+            src="{{ headerImage | default: '/assets/logo/logo.png' }}"
+            alt="{{ headerImageAlt | default: '' }}"
+            class="header-image-card__media"
+            loading="lazy"
+          />
+          <div class="header-image-card__overlay">
+            <h1 id="page-title" class="header-image-card__title">{{ title | default: "Recipe" }}</h1>
+          </div>
+        </section>
         <div class="content-card">
-          <h1 class="page-title">{{ title | default: "Recipe" }}</h1>
           {{ content }}
         </div>
       </div>
@@ -41,14 +51,26 @@
     <script>
       (() => {
         const header = document.querySelector(".site-header");
-        if (!header) return;
+        const hero = document.querySelector(".header-image-card");
 
         const handleScroll = () => {
           const isCompact = window.scrollY > 12;
-          header.classList.toggle("site-header--compact", isCompact);
+          header?.classList.toggle("site-header--compact", isCompact);
+          hero?.classList.toggle("header-image-card--compact", isCompact);
+        };
+
+        const setHeaderHeight = () => {
+          if (!header) return;
+          const { height } = header.getBoundingClientRect();
+          document.documentElement.style.setProperty(
+            "--site-header-height",
+            `${height}px`
+          );
         };
 
         window.addEventListener("scroll", handleScroll, { passive: true });
+        window.addEventListener("resize", setHeaderHeight);
+        setHeaderHeight();
         handleScroll();
       })();
     </script>
