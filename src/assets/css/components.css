@@ -41,3 +41,26 @@
     padding: clamp(0.85rem, 4vw, 1.25rem);
   }
 }
+
+.content-card table {
+  width: auto;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+}
+
+.content-card th,
+.content-card td {
+  border: 1px solid var(--border-strong);
+  padding: 0.5rem 0.75rem;
+}
+
+.content-card th:nth-child(2),
+.content-card td:nth-child(2) {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.content-card th {
+  background: var(--accent-subtle);
+  font-weight: 600;
+}
