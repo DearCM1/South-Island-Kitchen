@@ -34,11 +34,13 @@ This repo initially started as a simple host for markdown recipe files but has s
 │   │   └── layouts/
 │   │       └── base.html
 │   ├── assets/
+│   │   └── audio/
 │   │   └── banner/
 │   │   └── css/
 │   │       └── main.css
 │   │       └── ... .css
 │   │   └── images/
+│   │   └── js/
 │   │   └── logo/
 │   ├── recipes/
 │   │   └── example-recipe.md
