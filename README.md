@@ -21,6 +21,7 @@ This repo initially started as a simple host for markdown recipe files but has s
 * **Markdown** – recipe content
 * **HTML / Liquid** – templating
 * **Vanilla CSS** – styling (dark-mode first)
+* **Vanilla JS** – optional client behaviours (e.g., audio player)
 * **[Cloudflare Pages](https://pages.cloudflare.com/)** – hosting & CI/CD
 
 ---
@@ -34,13 +35,13 @@ This repo initially started as a simple host for markdown recipe files but has s
 │   │   └── layouts/
 │   │       └── base.html
 │   ├── assets/
-│   │   └── audio/
-│   │   └── banner/
-│   │   └── css/
-│   │       └── main.css
-│   │       └── ... .css
-│   │   └── images/
-│   │   └── js/
+│   │   ├── audio/
+│   │   ├── banner/
+│   │   ├── css/
+│   │   │   ├── main.css
+│   │   │   └── ...other css files
+│   │   ├── images/
+│   │   ├── js/
 │   │   └── logo/
 │   ├── recipes/
 │   │   └── example-recipe.md
@@ -111,7 +112,7 @@ Deployment is fully automated via GitHub integration.
 * **Build command:**
 
   ```bash
-  npx eleventy
+  npm run build
   ```
 
 * **Build output directory:**
@@ -132,7 +133,11 @@ Example:
 
 ```markdown
 ---
-title: Simple Sourdough
+title: Sourdough
+tags: [baking]
+headerImage: /assets/images/example.jpeg
+headerImageAlt: example image alt text
+audio: /assets/audio/example.ogg
 ---
 
 ## Ingredients
