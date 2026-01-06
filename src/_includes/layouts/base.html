@@ -37,9 +37,10 @@
             <h1 id="page-title" class="header-image-card__title">{{ title | default: "Recipe" }}</h1>
           </div>
         </section>
+
         {% if audio %}
           <section>
-            <div class="audio-player" data-audio-src="{{ audio }}">
+            <div class="audio-player" data-audio-src="{{ audio | url }}">
               <button class="audio-player__toggle" aria-label="Play/Pause">▶</button>
 
               <div class="audio-player__progress-group">
@@ -69,10 +70,11 @@
             </div>
           </section>
         {% endif %}
-        <section></section>
-          <div class="content-card">
+        <section class="content-card">
+          <div>
             {{ content }}
           </div>
+        </section>
       </div>
     </main>
 
@@ -81,6 +83,7 @@
         <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
       </div>
     </footer>
+    <script src="/assets/js/audio-player.js" defer></script>
     <script>
       (() => {
         const header = document.querySelector(".site-header");
