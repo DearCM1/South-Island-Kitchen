@@ -65,11 +65,20 @@
   cursor: pointer;
 }
 
+.audio-player__buffered {
+  position: absolute;
+  inset: 0;
+  width: 0%;
+  background: var(--accent-primary-12a);
+  height: 100%;
+  border-radius: inherit;
+}
+
 .audio-player__progress {
   position: absolute;
   inset: 0;
   height: 100%;
-  width: 28%;
+  width: 0%;
   background: var(--accent-primary);
   box-shadow: 0 0 12px var(--accent-primary-45a);
   border-radius: inherit;
