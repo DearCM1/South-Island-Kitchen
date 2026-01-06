@@ -10,13 +10,28 @@
   --text-muted: #8B90A0;
   --text-disabled: #5F6475;
 
-/* Accents */
---accent-primary: #6B63D9;
---accent-hover:   #7D75F0;
---accent-subtle:  #4A4590;
+  /* Accents */
+  --accent-primary: #6B63D9;
+  
+  --accent-primary-45a: rgba(107, 99, 217, 0.45);
+  --accent-primary-35a: rgba(107, 99, 217, 0.35);
+  --accent-primary-30a: rgba(107, 99, 217, 0.3);
+  --accent-primary-12a: rgba(107, 99, 217, 0.12);
+  --accent-primary-08a: rgba(107, 99, 217, 0.08);
+
+  --accent-hover: #7D75F0;
+  --accent-subtle: #4A4590;
+
+  /* Highlights */
+  --surface-highlight: rgba(244, 245, 247, 0.08);
 
   /* UI chrome */
   --border-subtle: #262A36;
   --border-strong: #30354A;
   --focus-ring: rgba(58, 51, 156, 0.6);
+
+  /* Shadows */
+  --shadow-elevated: 0 12px 28px rgba(0, 0, 0, 0.25);
+  --shadow-button: 0 8px 18px rgba(0, 0, 0, 0.3);
+  --shadow-thumb: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
