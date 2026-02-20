@@ -3,66 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/css/editorial.css" />
     <title>{{ title | default: "South Island Kitchen" }}</title>
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="site-header__inner">
-        <a class="site-brand" href="/">
-          <img
-            src="/assets/logo/logo.png"
-            alt="South Island Kitchen logo"
-            class="site-brand__mark"
-          />
-          <div class="site-brand__text">
-            <span class="site-brand__name">South Island Kitchen</span>
-            <span class="site-brand__tagline">Get fed.</span>
-          </div>
-        </a>
-      </div>
-    </header>
-
     <main class="page">
-      <div class="content-shell">
-        <header class="page-header" aria-labelledby="page-title">
+      <article class="recipe">
+        <header class="recipe__header" aria-labelledby="page-title">
           <h1 id="page-title" class="page-title">{{ title | default: "Recipe" }}</h1>
+          {% if deck %}
+            <p class="recipe__deck">{{ deck }}</p>
+          {% endif %}
+          {% if meta %}
+            <p class="meta">{{ meta }}</p>
+          {% endif %}
         </header>
         <section class="page-content">
           {{ content }}
         </section>
-      </div>
+      </article>
     </main>
-
-    <footer class="site-footer">
-      <div class="content-shell">
-        <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
-      </div>
-    </footer>
-    <script>
-      (() => {
-        const header = document.querySelector(".site-header");
-
-        const handleScroll = () => {
-          const isCompact = window.scrollY > 12;
-          header?.classList.toggle("site-header--compact", isCompact);
-        };
-
-        const setHeaderHeight = () => {
-          if (!header) return;
-          const { height } = header.getBoundingClientRect();
-          document.documentElement.style.setProperty(
-            "--site-header-height",
-            `${height}px`
-          );
-        };
-
-        window.addEventListener("scroll", handleScroll, { passive: true });
-        window.addEventListener("resize", setHeaderHeight);
-        setHeaderHeight();
-        handleScroll();
-      })();
-    </script>
   </body>
 </html>

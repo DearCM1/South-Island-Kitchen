@@ -1,18 +1,8 @@
 :root {
-  /* Backgrounds */
-  --bg-primary: #0F1115;
-  --bg-secondary: #171A21;
-
-  /* Text */
-  --text-primary: #F4F5F7;
-  --text-secondary: #C9CCD6;
-
-  /* Accents */
-  --accent-primary: #6B63D9;
-  --accent-hover: #7D75F0;
-  --accent-subtle: #4A4590;
-
-  /* UI chrome */
-  --border-subtle: #262A36;
-  --border-strong: #30354A;
+  --measure: 70ch;
+  --paper: #f6f1e6;
+  --ink: #1b1b1b;
+  --ink-muted: #5f5a52;
+  --rule: rgba(0, 0, 0, 0.18);
+  --accent: #2f5f6d;
 }

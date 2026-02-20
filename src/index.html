@@ -3,39 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/css/editorial.css" />
     <title>{{ title | default: "South Island Kitchen" }}</title>
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="site-header__inner">
-        <a class="site-brand" href="/">
-          <img
-            src="/assets/logo/logo.png"
-            alt="South Island Kitchen logo"
-            class="site-brand__mark"
-          />
-          <div class="site-brand__text">
-            <span class="site-brand__name">South Island Kitchen</span>
-            <span class="site-brand__tagline">Get fed.</span>
-          </div>
-        </a>
-      </div>
-    </header>
-
     <main class="page">
-      <div class="content-shell">
-        <section class="page-intro">
+      <article class="recipe">
+        <header class="recipe__header" aria-labelledby="page-title">
           <h1 id="page-title" class="page-title">South Island Kitchen</h1>
-          <p>Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chefs' exceptional and worldly palates.</p>
+          <p class="recipe__deck">A curated collection of our favourite recipes.</p>
+          <p class="meta">Calum Dear · Editorial Version 2</p>
+        </header>
+        <section class="page-content">
           <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
           <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
         </section>
-      </div>
-      
-      <section id="fish" class="recipe-section">
-        <div class="content-shell">
+
+        <section id="fish" class="recipe__section">
           <h2>Fish</h2>
           <ul class="recipe-list">
             {% for item in collections.fish %}
@@ -44,11 +35,9 @@
               </li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
+        </section>
 
-      <section id="asian" class="recipe-section">
-        <div class="content-shell">
+        <section id="asian" class="recipe__section">
           <h2>Asian</h2>
           <ul class="recipe-list">
             {% for item in collections.asian %}
@@ -57,11 +46,9 @@
               </li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
+        </section>
 
-      <section id="european" class="recipe-section">
-        <div class="content-shell">
+        <section id="european" class="recipe__section">
           <h2>European</h2>
           <ul class="recipe-list">
             {% for item in collections.european %}
@@ -70,11 +57,9 @@
               </li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
+        </section>
 
-      <section id="salads" class="recipe-section">
-        <div class="content-shell">
+        <section id="salads" class="recipe__section">
           <h2>Salads</h2>
           <ul class="recipe-list">
             {% for item in collections.salad %}
@@ -83,11 +68,9 @@
               </li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
+        </section>
 
-      <section id="deserts" class="recipe-section">
-        <div class="content-shell">
+        <section id="deserts" class="recipe__section">
           <h2>Deserts</h2>
           <ul class="recipe-list">
             {% for item in collections.desert %}
@@ -96,28 +79,8 @@
               </li>
             {% endfor %}
           </ul>
-        </div>
-      </section>
+        </section>
+      </article>
     </main>
-
-    <footer class="site-footer">
-      <div class="content-shell">
-        <p>&copy; {{ "now" | date: "%Y" }} Calum Dear. All rights reserved.</p>
-      </div>
-    </footer>
-    <script>
-      (() => {
-        const header = document.querySelector(".site-header");
-        if (!header) return;
-
-        const handleScroll = () => {
-          const isCompact = window.scrollY > 12;
-          header.classList.toggle("site-header--compact", isCompact);
-        };
-
-        window.addEventListener("scroll", handleScroll, { passive: true });
-        handleScroll();
-      })();
-    </script>
   </body>
 </html>
