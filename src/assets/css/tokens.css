@@ -1,5 +1,8 @@
 :root {
   --measure: 70ch;
+  --gutter: clamp(20px, 4vw, 48px);
+  --serif: "EB Garamond", Garamond, "Times New Roman", serif;
+  --ui-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --paper: #f6f1e6;
   --ink: #1b1b1b;
   --ink-muted: #5f5a52;
