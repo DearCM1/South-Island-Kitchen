@@ -158,6 +158,60 @@ ol {
   margin-top: 0.5rem;
 }
 
+.recipe-contents {
+  padding-bottom: 1.2rem;
+}
+
+.recipe-contents__header {
+  margin-bottom: 1.4rem;
+}
+
+.contents-nav {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--ui-sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.contents-nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: var(--ink-muted);
+}
+
+.contents-nav a:hover {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.contents-group {
+  margin-top: 1.8rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--rule);
+}
+
+.contents-group h2 {
+  margin-top: 0.6rem;
+}
+
+.contents-list li {
+  border-bottom: 1px dotted var(--rule);
+  padding: 0.32rem 0;
+}
+
+.contents-list li + li {
+  margin-top: 0;
+}
+
+.contents-list h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
 a {
   color: var(--accent);
   text-decoration: underline;
