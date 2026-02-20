@@ -14,84 +14,35 @@
     <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="site-header__inner">
-        <div class="site-header__branding">
-          <a href="/" class="site-title">South Island Kitchen</a>
-        </div>
-        <nav class="site-nav" aria-label="Primary">
-          <a href="/">Home</a>
-          <a href="/recipes/">Recipes</a>
-          <a href="/about/">About</a>
-        </nav>
-      </div>
-    </header>
     <main class="page">
-      <article class="recipe">
-        <header class="recipe__header" aria-labelledby="page-title">
+      <article class="recipe home">
+        <header class="recipe__header home__header" aria-labelledby="page-title">
           <h1 id="page-title" class="page-title">South Island Kitchen</h1>
-          <p class="recipe__deck">A curated collection of our favourite recipes.</p>
-          <p class="meta">Calum Dear · Editorial Version 2</p>
+          <p class="recipe__deck">
+            Welcome to the South Island Kitchen recipe book. A collection of simple and
+            effective recipes, brought to you by the very intelligent chefs who maintain
+            this repository.
+          </p>
         </header>
-        <section class="page-content">
-          <p>Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.</p>
-          <p>Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.</p>
+
+        <section class="home__intro">
+          <p>
+            South Island Kitchen is a collection of recipes written to be useful. No lengthy
+            preamble, no scrolling past the anecdotal equivalent of Shakespeare's complete works
+            to find the ingredient list. This website contains ONLY clear, well-structured
+            recipes that work in a real home kitchen.
+          </p>
+          <p>
+            Every recipe here has been cooked, adjusted, and written with realistic measurements
+            and seasoning in mind. The goal is straightforward: a reliable reference that can be
+            read quickly.
+          </p>
         </section>
 
-        <section id="fish" class="recipe__section">
-          <h2>Fish</h2>
-          <ul class="recipe-list">
-            {% for item in collections.fish %}
-              <li>
-                <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-
-        <section id="asian" class="recipe__section">
-          <h2>Asian</h2>
-          <ul class="recipe-list">
-            {% for item in collections.asian %}
-              <li>
-                <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-
-        <section id="european" class="recipe__section">
-          <h2>European</h2>
-          <ul class="recipe-list">
-            {% for item in collections.european %}
-              <li>
-                <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-
-        <section id="salads" class="recipe__section">
-          <h2>Salads</h2>
-          <ul class="recipe-list">
-            {% for item in collections.salad %}
-              <li>
-                <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-
-        <section id="deserts" class="recipe__section">
-          <h2>Deserts</h2>
-          <ul class="recipe-list">
-            {% for item in collections.desert %}
-              <li>
-                <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
+        <nav class="home-actions" aria-label="Homepage links">
+          <a class="home-action" href="/recipes/">Browse Recipes</a>
+          <a class="home-action" href="/about/">About</a>
+        </nav>
       </article>
     </main>
   </body>

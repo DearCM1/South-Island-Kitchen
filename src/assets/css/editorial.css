@@ -213,6 +213,44 @@ ol {
   font-size: 1.2rem;
 }
 
+.home {
+  text-align: center;
+  padding-top: clamp(28px, 8vw, 72px);
+}
+
+.home__header {
+  margin-bottom: 1.8rem;
+}
+
+.home-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin-top: 0.8rem;
+}
+
+.home-action {
+  display: inline-block;
+  min-width: 10.5rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--ui-sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: transparent;
+}
+
+.home-action:hover {
+  color: var(--ink);
+  background: rgba(47, 95, 109, 0.08);
+  text-decoration: none;
+}
+
 a {
   color: var(--accent);
   text-decoration: underline;

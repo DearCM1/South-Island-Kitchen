@@ -1,0 +1,79 @@
+---
+layout: false
+title: About
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/css/editorial.css" />
+    <title>{{ title | default: "South Island Kitchen" }}</title>
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/logo/favicon.png' | url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <div class="site-header__branding">
+          <a href="/" class="site-title">South Island Kitchen</a>
+        </div>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="/recipes/">Recipes</a>
+        </nav>
+      </div>
+    </header>
+    <main class="page">
+      <article class="recipe home">
+        <header class="recipe__header home__header" aria-labelledby="page-title">
+          <h1 id="page-title" class="page-title">About</h1>
+          <p class="recipe__deck">
+            The much anticipated origin story of South Island Kitchen
+          </p>
+        </header>
+        <section class="home__intro">
+          <p>
+            South Island Kitchen started out as a GitHub repository consisting of markdown files,
+            with each one a recipe we'd found somewhere online and then rewritten into something
+            more usable.
+          </p>
+          <p>
+            The git repo was born out of frustration with many recipes in both print and web format.
+            For recipe websites, almost all of them are a mess to use. You scroll through paragraphs
+            of backstory to find the recipe buried at the bottom, the method is written in chunky,
+            hard-to-parse blocks, and the measurements jump between metric and imperial without any
+            consistency.
+          </p>
+          <p>
+            Beyond the web formatting, recipes in all forms are just unrealistic, particularly around
+            seasoning. The amount of salt, acid, or spice a recipe calls for is often nowhere near
+            what any reasonable person would need to make the dish taste right.
+          </p>
+          <p>
+            Having our own versions meant we could fix that. We'd take a recipe, rewrite it into a
+            format that was clear and well-structured, and then adjust it over time to reflect what
+            worked. It also meant that when someone asked what we'd made for dinner, we could send
+            them a link rather than try to explain it over text.
+          </p>
+          <p>
+            At some point we found out about Eleventy, a static site generator that renders markdown
+            into web pages, and it made sense to migrate everything over to a proper website. That
+            became southislandkitchen.uk — deployed via Cloudflare Pages, which means it loads quickly,
+            works on any device, and is considerably less intimidating to send to a family member
+            than a GitHub repository URL.
+          </p>
+          <p>
+            The philosophy hasn't changed. Simple, readable recipes – written to actually work and
+            styled to stay out of the way, and easy to return to.
+          </p>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
