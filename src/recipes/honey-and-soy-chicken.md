@@ -1,5 +1,5 @@
 ---
-title: Honey and Soy Chicken 🐝
+title: Honey and Soy Chicken
 tags: [asian]
 ---
 (4.0⭐️)
@@ -7,15 +7,17 @@ tags: [asian]
 Welcome to the yum-zone. We used to rinse this recipe as a treat meal all the time. What's so nice about it is the contrast between the full honey and soy flavour and the fresh salad and yoghurt.
 
 ---
+
 ## At A Glance
 
-🐝 | -
+Quick | Look
 -- | --
 Serves | 2
 Time | 2 hrs 45 mins
 Calories | x kcal
 
 ---
+
 ## What You'll Need
 
 ### **Marinade**
@@ -48,14 +50,13 @@ Lime Wedge 1/4 | x2
 Sesame Seeds | pinch
 
 ---
+
 ## Method
 
 ### **Preparation**
 
 1. Mince the **garlic** and **ginger** and mix well with all **marinade** ingredients, season with salt and pepper.
-
 2. Roughly chop the rest of the **main** ingredients and mix with the marinade mix.
-
 3. Leave the marinade mix in fridge for 2 - 24 hours.
 
 ### **Cooking**
@@ -67,6 +68,7 @@ Sesame Seeds | pinch
 5. Serve with rice, salad, and mint yoghurt. Plenty of garnish throughout.
 
 ---
+
 ## Notes
 
 > none.

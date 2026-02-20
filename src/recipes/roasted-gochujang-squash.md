@@ -1,23 +1,25 @@
 ---
-title: Roasted Gochujang Squash and Prawns 🦐
+title: Roasted Gochujang Squash and Prawns
 tags: [asian]
 ---
 (4.0⭐️)
 
-An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy sauce rice and peas and some gochujang fried prawns.
+An easy weeknight dinner which is a certified flavour bomb. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy sauce rice and peas and some gochujang fried prawns.
 
 We know, we know, the keen reader will already be saying, "umm, actually, the above image asset has slices of butternut squash instead of cubed, as per the recipe–pray tell, why there is a discrepancy?", to which we respond "brush my nuts."
 
 ---
+
 ## At A Glance
 
-| 🦐       | -              |
+| Quick    | Look           |
 | -------- | -------------- |
 | Serves   | 2              |
 | Time     | 40 mins        |
 | Calories | x kcal/serving |
 
 ---
+
 ## What You'll Need
 
 ### **Main Ingredients**
@@ -46,6 +48,7 @@ We know, we know, the keen reader will already be saying, "umm, actually, the ab
 | Garlic Cloves (minced) | x 4           |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -75,6 +78,7 @@ We know, we know, the keen reader will already be saying, "umm, actually, the ab
 8. Plate up your **rice** and **peas**, followed by your air fried **butternut squash**, finally topped with your **prawns**, chopped **coriander**, and diced **spring onions**.
 
 ---
+
 ## Notes
 
-> No notes ✋😤🤚.
+> No notes.

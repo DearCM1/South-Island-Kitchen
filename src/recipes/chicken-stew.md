@@ -1,5 +1,5 @@
 ---
-title: Chicken Stew 🍲
+title: Chicken Stew
 tags: [european]
 ---
 (4.5⭐️)
@@ -7,15 +7,17 @@ tags: [european]
 You wanna chicken stew? You gotta chicken stew.
 
 ---
+
 ## At A Glance
 
-| 🍲       | -              |
+| Quick    | Look           |
 | -------- | -------------- |
 | Serves   | 4              |
 | Time     | 1 hr           |
 | Calories | x kcal/serving |
 
 ---
+
 ## What You'll Need
 
 | Ingredients                         | Quantity   |
@@ -40,6 +42,7 @@ You wanna chicken stew? You gotta chicken stew.
 | Salt & Pepper                       | to taste   |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -63,10 +66,9 @@ You wanna chicken stew? You gotta chicken stew.
 11. Serve hot with bread, mashed potato, or as a standalone stew.  
 
 ---
+
 ## Notes
 
 > Chicken thighs will provide deeper flavour, but breasts keep it lighter.
-> 
 > Adjust thickness with extra stock or water depending on preference.
-> 
 > Parmesan adds richness. Taste as you go to balance saltiness.

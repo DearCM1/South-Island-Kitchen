@@ -1,5 +1,5 @@
 ---
-title: Mushroom & Cheese Gnocchi Bake 🍄‍🟫
+title: Mushroom & Cheese Gnocchi Bake
 tags: [european]
 ---
 (5.0⭐️)
@@ -7,18 +7,20 @@ tags: [european]
 One of the finest Mob Kitchen recipes, adapted for your convenience–that's right, you're welcome. This slaps. Indisputably. Best had with some simply salt and pepper grilled chicken or white fish.
 
 ---
+
 ## At A Glance
 
-| 🍄‍🟫    | -              |
+| Quick    | Look           |
 | -------- | -------------- |
 | Serves   | 4              |
 | Time     | 1 hr           |
 | Calories | x kcal/serving |
 
 ---
+
 ## What You'll Need
 
-### **Main** Ingredients
+### **Main**
 
 | Ingredients        | Quantity |
 | ------------------ | -------- |
@@ -45,6 +47,7 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 | Salt and Black Pepper     |               |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -54,15 +57,12 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 ### **Cooking**
 
 1. Cut up the following and place in a large sauce pan with some **olive oil**:
-
 	- Thinly slice all the **mushrooms**.
 	- Finely dice the **brown onion**.
 	- Roughly chop the **parsley**, leaving some for garnish.
 
 2. Heat saucepan on medium-low heat until the **mushrooms** and **onion** have softened.
-
 3. Add all the seasonings into the sauce pan and let simmer for 5 minutes:
-
 	- 6x **garlic cloves** however you like.
 	- 1 teaspoon **Italian Seasoning**.
 	- 2 teaspoons **chilli flakes**.
@@ -71,13 +71,9 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 	- 150 ml **stock**.
 	- 150 ml  **single cream**.
 	- **Salt and pepper** to taste.
-
 4. Mix in all the **spinach** with the sauce and cover with a lid on low heat to wilt.
-
 5. Mix in the **gnocchi** with the sauce with the juice of the **lemon** (Note 2).
-
 6. Pour everything into a baking dish and add sliced **cheddar cheese** on top with a crack of **salt**, **pepper**, and some **chilli flakes**.
-
 7. Bake for 20 minutes, or until the cheese as browned nicely on top.
 
 ### **Service**
@@ -85,8 +81,8 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 8. Serve with a garnish of **parsley** and eat either by itself or with some grilled chicken or lemony white fish.
 
 ---
+
 ## Notes
 
 >*Note 1:* Get your hands on the Geo Watkins Mushroom Ketchup to completely blast this dish to space. You can find it at most major supermarkets.
-
 >*Note 2:* The **gnocchi** will cook with the excess water in the dish whilst in the oven. By not pre-boiling the **gnocchi** all the starch remains in the dish, helping thicken the sauce and create a better bite (no sludge).
