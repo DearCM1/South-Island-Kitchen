@@ -30,7 +30,7 @@ body {
 }
 
 .site-header__inner {
-  max-width: var(--measure);
+  width: min(var(--measure), calc(100% - (2 * var(--gutter))));
   margin: 0 auto;
   padding: 0;
 }
