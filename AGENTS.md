@@ -6,6 +6,7 @@ South Island Kitchen is a static recipe website built with Eleventy (11ty) and d
 The site content is primarily Markdown recipes rendered into static HTML.
 
 Primary goals:
+
 - Keep pages fast, clean, and lightweight.
 - Preserve a no-backend architecture.
 - Maintain clear ownership of content and layout.
