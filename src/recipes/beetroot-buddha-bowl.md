@@ -1,7 +1,6 @@
 ---
 title: Beetroot Hummus and Roast Veg Buddha Bowl 🥗
 tags: [salad]
-headerImage: /assets/images/beetroot-buddha-bowl.jpeg
 ---
 (3.5⭐️) 💚 
 

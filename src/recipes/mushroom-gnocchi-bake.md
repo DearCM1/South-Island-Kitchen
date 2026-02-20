@@ -1,7 +1,6 @@
 ---
 title: Mushroom & Cheese Gnocchi Bake 🍄‍🟫
 tags: [european]
-headerImage: /assets/images/mushroom-gnocchi-bake.jpeg
 ---
 (5.0⭐️)
 

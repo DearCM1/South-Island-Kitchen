@@ -1,9 +1,6 @@
 ---
 title: Chicken and Leek Pie 🔥🐔🔥
 tags: [european]
-headerImage: /assets/images/chicken-pie.jpeg
-headerImageAlt: Rectangular chicken pie with a golden-brown puff pastry crust, decorated with heart shapes on top, shown whole in a tin and sliced on a plate with creamy chicken filling and mixed vegetables.
-audio: /assets/audio/chicken-pie.ogg
 ---
 (5.0⭐️)
 

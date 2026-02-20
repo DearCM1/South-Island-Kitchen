@@ -1,7 +1,6 @@
 ---
 title: Brownies
 tags: [desert]
-headerImage: /assets/images/brownies.jpeg
 ---
 (0.0⭐️) 💚 
 

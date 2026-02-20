@@ -1,7 +1,6 @@
 ---
 title: Katsu Chicken Curry 🍛
 tags: [asian]
-headerImage: /assets/images/chicken-katsu-curry.jpeg
 ---
 (5.0⭐️)
 

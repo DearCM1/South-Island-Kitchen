@@ -1,7 +1,6 @@
 ---
 title: Chicken Ramen 🍜
 tags: [asian]
-headerImage: /assets/images/chicken-ramen.jpeg
 ---
 (5.0⭐️)
 

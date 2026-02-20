@@ -1,7 +1,6 @@
 ---
 title: Recipe Name 🥦
 tags: []
-imageHeader:
 ---
 (0.0⭐️) 💚 
 

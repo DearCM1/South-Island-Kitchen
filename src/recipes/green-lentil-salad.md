@@ -1,7 +1,6 @@
 ---
 title: Quinoa and Green Lentil Salad 🥗
 tags: [salad]
-headerImage: /assets/images/green-lentil-salad.jpeg
 ---
 (5.0⭐️) 💚
 
