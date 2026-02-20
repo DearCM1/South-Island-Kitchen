@@ -70,5 +70,7 @@ You wanna chicken stew? You gotta chicken stew.
 ## Notes
 
 > Chicken thighs will provide deeper flavour, but breasts keep it lighter.
+
 > Adjust thickness with extra stock or water depending on preference.
+
 > Parmesan adds richness. Taste as you go to balance saltiness.

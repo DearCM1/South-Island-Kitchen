@@ -72,4 +72,5 @@ Alas, you may now rest, as you've discovered the best recipe for a lentil dhal t
 ## Notes
 
 > We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride FULL FAT coconut milk.
+
 > Be generous with the spice portions.

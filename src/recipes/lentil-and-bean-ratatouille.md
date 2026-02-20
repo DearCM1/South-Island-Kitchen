@@ -99,7 +99,11 @@ A vegetable and legume ratatouille-style stew built for max-style flavour which 
 ## Notes
 
 >*Note 1:* Or roast in the oven at 180 on a baking tray, obviously this will take more time.
+
 >*Note 2:* Browning on the bottom of the pan is fine. Just make sure you're moving the mirepoix around frequently to redistribute the moisture.
+
 >*Note 3*: Lentils cook better if the pot is already at a simmering temperature.
+
 >*Note 4:* Lentils can vary; cook to tenderness rather than time. Add extra water if needed.
+
 >*Note 5:* Use the acid component sparingly; the goal is brightness, not acidity.

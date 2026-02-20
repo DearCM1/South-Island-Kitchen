@@ -79,4 +79,5 @@ Parsley (chopped) | handful
 ## Notes
 
 > Preparation is key on this, make sure everything is prepped before attempting to cook as you'll be focusing on the cooking process once started.
+
 > As soon as the thickest part of the chicken hits 73°C, remove from heat and rest.

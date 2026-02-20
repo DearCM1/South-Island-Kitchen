@@ -70,5 +70,7 @@ Perfect with a cup of tea with some friends 🧡
 ## Notes
 
 > These cookies are best enjoyed warm and chewy.
+
 > Store in an airtight container for up to 5 days.
+
 > For extra spice, add a pinch of cinnamon or nutmeg to the dry mix.

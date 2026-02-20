@@ -85,4 +85,5 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 ## Notes
 
 >*Note 1:* Get your hands on the Geo Watkins Mushroom Ketchup to completely blast this dish to space. You can find it at most major supermarkets.
+
 >*Note 2:* The **gnocchi** will cook with the excess water in the dish whilst in the oven. By not pre-boiling the **gnocchi** all the starch remains in the dish, helping thicken the sauce and create a better bite (no sludge).

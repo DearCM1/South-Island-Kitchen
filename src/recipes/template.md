@@ -52,4 +52,6 @@ Short description of recipe and what might go with it
 
 ## Notes
 
-> Note.
+> Note 1.
+
+> Note 2.

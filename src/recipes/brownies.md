@@ -56,4 +56,5 @@ Milk Chocolate | 220g
 ## Notes
 
 > Step 3: If you don't have a kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
+
 > Step 9: If you have a thermometer, aim to have the middle of the brownie between the range of 80-90°C.

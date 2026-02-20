@@ -101,4 +101,5 @@ Mint | just a pinch
 ## Notes
 
 > Best to make the lentil hummus first so its ready to go for service. You can even make the hummus in advance so making the salad on the day is that much easier.
+
 > Butterfly and fry some chicken for extra PROTEIN.

@@ -100,5 +100,7 @@ Cooked Rice | to serve
 ## Notes
 
 > Do not rush the sauce. The depth comes from fully softening the vegetables before blending.
+
 > Oil temperature matters. If it is too cool, the coating will absorb oil; too hot and it will brown before cooking through.
+
 > This reheats exceptionally well. If anything, the curry improves overnight.

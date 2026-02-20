@@ -85,5 +85,7 @@ Butter | for greasing
 ## Notes
 
 > Cooking low and slow is non-negotiable. Higher temperatures dry the sides and leave the middle wet.
+
 > Pressing during cooking is critical—skip it and you’ll end up with a sloppy centre.
+
 > Holds warm extremely well and reheats without issue. Ideal for dinner parties or service ahead of time.

@@ -79,5 +79,7 @@ Medium effort show-stopper meal that is well worth the time. Follow these instru
 ## Notes
 
 > Note 1: There is generally a bitter taste to the sauce before finishing. Adding one to two teaspoons of sugar balances the acridity and pairs nicely with the **red wine vinegar** to make it extra juicy.
+
 > Note 2: Resting the dish before serving helps it set, making cleaner portions when cut.
+
 > Serve with white fish and a simple green salad for a balanced meal.

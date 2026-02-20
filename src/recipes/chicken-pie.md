@@ -69,4 +69,5 @@ Egg yolk | x1-2
 ## Notes
 
 > Ingredients: Dried green herbs: Try some dried tarragon, or oregano, or mixed Italian seasoning. Just make sure to use sparingly as it can easily overpower the dish.
+
 > Ingredients: Umami-based sauce: Try a tablespoon or two of some Worcester sauce, or Maggie's seasoning, or mushroom ketchup etc. Just make sure to taste as you add.
