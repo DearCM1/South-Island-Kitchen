@@ -99,6 +99,18 @@
   margin: 0 auto;
 }
 
+.page-header {
+  margin: 0 0 1rem;
+}
+
+.page-content {
+  margin: 0;
+}
+
+.page-intro {
+  margin: 0 0 1.25rem;
+}
+
 .page-title {
   margin: 0 0 1rem;
   font-size: clamp(1.8rem, 2.5vw, 2.4rem);
@@ -106,7 +118,7 @@
 }
 
 .recipe-section {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 .recipe-list {
