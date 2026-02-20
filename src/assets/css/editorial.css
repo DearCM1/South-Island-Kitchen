@@ -192,6 +192,7 @@ ol {
   margin-top: 1.8rem;
   padding-top: 0.6rem;
   border-top: 1px solid var(--rule);
+  scroll-margin-top: clamp(100px, 18vw, 180px);
 }
 
 .contents-group h2 {
