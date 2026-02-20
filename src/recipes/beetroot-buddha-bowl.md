@@ -1,22 +1,23 @@
 ---
-title: Beetroot Hummus and Roast Veg Buddha Bowl 🥗
+title: Beetroot Hummus and Roast Veg Buddha Bowl
 tags: [salad]
-headerImage: /assets/images/beetroot-buddha-bowl.jpeg
 ---
-(3.5⭐️) 💚 
+(3.5⭐️) 💚
 
 More of a weekend job, high effort in regards to washing up but worth the effort, SO much fibre and good stuff.
 
 ---
+
 ## At A Glance
 
-| 🥗       | -                |
+| Quick    | Look             |
 | -------- | ---------------- |
 | Serves   | 2                |
 | Time     | 1 hrs 30 mins    |
 | Calories | 450 kcal/serving |
 
 ---
+
 ## What You'll Need
 
 ### **Main**
@@ -37,6 +38,7 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 | EV Olive Oil                        | x            |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -54,18 +56,14 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 ### **Cooking**
 
 2. Cook the **bulgur wheat** according to instructions.
-
 3. Roast the following in an air fryer for 12 minutes at 180 °C:
-
     - **Butternut squash** cubes
     - Half of the **beetroot** wedges (125g)
     - Half of the tinned **chickpeas** (200g)
     - **Tenderstem broccoli**
     - **Garlic cloves** with skin on
     - Toss in **olive oil**, **cumin**, and **salt** and **pepper**
-
 4. Once roasted, in a small bowl, mash/mix together to create the **garlic** dressing:
-
     - Squeeze the insides of the **garlic cloves**, discarding the skin
     - Squeeze of **lemon** juice
     - 2 Tablespoons of **olive oil**
@@ -74,7 +72,6 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 ### **Service**
 
 5. Order all components together (separated so each segment of the bowl has one component) including:
-
     - **Rocket**
     - **Beetroot** hummus
     - **Bulgur wheat**
@@ -83,10 +80,10 @@ More of a weekend job, high effort in regards to washing up but worth the effort
     - Roasted **chickpeas**
     - Roasted **tenderstem broccoli**
     - **Lemon** wedge
-
 6. Drizzle over the **garlic** dressing and chuck some **mixed seeds** on top.
 
 ---
+
 ## Notes
 
-> Chuck whatever else you want in as well: avocado, sauerkraut etc. 
+> Chuck whatever else you want in as well: avocado, sauerkraut etc.

@@ -61,6 +61,7 @@ Preparation and cooking time: about 1½ hours
 **Use immediately** or cool and refrigerate for up to 4 days.  
 
 ---
+
 ## Chicken Dishes
 
 ### The Right Equipment
@@ -103,6 +104,7 @@ Do not reduce the amount of oil during cooking; if necessary, skim excess from t
 Restaurants often use food colourings (red and yellow) to give dishes their expected appearance, though they do not affect flavour. You may substitute natural colourings (e.g. paprika or turmeric) or omit them altogether, but be aware that some traditional dishes, such as tandoori chicken or chicken tikka masala, are strongly associated with specific colours.  
 
 ---
+
 ## Chicken Bhuna Masala
 
 This spicy dish is a firm favourite. (Spicy does not necessarily mean hot!)  

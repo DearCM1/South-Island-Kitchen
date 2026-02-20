@@ -1,22 +1,23 @@
 ---
-title: Lentil Dhal 🥘
+title: Lentil Dhal
 tags: [asian]
-headerImage: /assets/images/lentil-dhal.jpeg
 ---
 (5.0⭐️) 💚
 
 Alas, you may now rest, as you've discovered the best recipe for a lentil dhal that you'll ever find. Conjured up from the brilliant mind of Sir Prof. Daisy Stephens CFA MBA PhD MSc BSc. Such a simple recipe which is stellar tasty and healthy.
 
 ---
+
 ## At A Glance
 
-🥘 | -
--- | --
-Serves | 6
-Time | 1 hr 30 mins
-Calories | 320 kcal/serving
+| Quick    | Look             |
+| -------- | ---------------- |
+| Serves   | 6                |
+| Time     | 1 hr 30 mins     |
+| Calories | 320 kcal/serving |
 
 ---
+
 ## What You'll Need
 
 ### **Spice Mix**
@@ -47,6 +48,7 @@ Calories | 320 kcal/serving
 | Fresh Coriander               | -             |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -56,13 +58,9 @@ Calories | 320 kcal/serving
 ### **Cooking**
 
 2. Heat **both oils** and **onions** in a pot over medium heat until soft.
-
 3. Add the **garlic**, **ginger**, and **chilli**. Sweat for a few more minutes.
-
 4. Add **all spices** with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
-
 5. Add the **lentils**, **tomatoes**, **coconut milk** (**see notes**), and **vegetable stock** to the pot and bring to a simmer.
-
 6. Cook for minimum 20 minutes, seasoning along the way; if the pot is still watery, add some plain flour to thicken the sauce.
 
 ### **Service**
@@ -70,8 +68,8 @@ Calories | 320 kcal/serving
 7. Once the consistency is correct, squeeze in fresh **lemon** juice and stir. Serve with rice, salsa, and a **coriander** garnish.
 
 ---
+
 ## Notes
 
 > We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride FULL FAT coconut milk.
-
 > Be generous with the spice portions.

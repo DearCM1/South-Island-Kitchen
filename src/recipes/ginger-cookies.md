@@ -1,5 +1,5 @@
 ---
-title: Chewy Ginger Cookies 🍪
+title: Chewy Ginger Cookies
 tags: [desert]
 ---
 (5.0⭐️)
@@ -9,15 +9,17 @@ Grab yourself a bottle of champagne in preparation to smash against your flagshi
 Perfect with a cup of tea with some friends 🧡
 
 ---
+
 ## At A Glance
 
-🍪 | -
--- | --
-Makes | 12 large cookies
-Time | 25 mins
-Calories | x kcal/cookie
+| Quick    | Look             |
+| ---------| ---------------- |
+| Makes    | 12 large cookies |
+| Time     | 25 mins          |
+| Calories | x kcal/cookie    |
 
 ---
+
 ## What You'll Need
 
 | Ingredients                                                       | Quantity                 |
@@ -33,6 +35,7 @@ Calories | x kcal/cookie
 | Milk                                                              | as needed                |
 
 ---
+
 ## Method
 
 ### **Preparation**
@@ -60,13 +63,12 @@ Calories | x kcal/cookie
 
 9. Bake for **8 minutes**, keeping an eye on them.
    - They should be golden at the edges and slightly soft in the centre.
-9. Allow to cool on the tray for 5 minutes, then transfer to a wire rack.
+10. Allow to cool on the tray for 5 minutes, then transfer to a wire rack.
 
 ---
+
 ## Notes
 
 > These cookies are best enjoyed warm and chewy.
-
 > Store in an airtight container for up to 5 days.
-
 > For extra spice, add a pinch of cinnamon or nutmeg to the dry mix.

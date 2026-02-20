@@ -1,22 +1,23 @@
 ---
-title: Quinoa and Green Lentil Salad 🥗
+title: Quinoa and Green Lentil Salad
 tags: [salad]
-headerImage: /assets/images/green-lentil-salad.jpeg
 ---
 (5.0⭐️) 💚
 
 This salad is actually enjoyable, the lentil hummus base makes it so incredibly moreish. The best part about this is that it's a respectable amount of calories with a shining list of good whole-foods and greens.
 
 ---
+
 ## At A Glance
 
-🥗 | -
+Quick | Look
 -- | --
 Serves | 4
 Time | 1 hrs 30 mins
 Calories | 598 kcal/serving
 
 ---
+
 ## What You'll Need
 
 ### **Lentil Hummus**
@@ -54,12 +55,12 @@ Coriander | -
 Mint | just a pinch
 
 ---
+
 ## Method
 
 ### **Lentil Hummus (1 hour)**
 
 1. Rinse the **lentils** in cold water, cook according to instructions, drain and cool.
-
 2. Once cool, in a food processor, add the following and blend until smooth:
     - **cooked lentils**
     - 40ml **olive oil**
@@ -79,29 +80,25 @@ Mint | just a pinch
 ### **Salad Preparation (30 mins)**
 
 4. Rinse and cook the **quinoa** according to instructions. Once done, leave aside to cool.
-
 5. Dressing: Whisk together:
     - 4 tablespoons of **red wine vinegar**
     - 2 tablespoons of **Dijon mustard**
     - 10ml **olive oil**
     - juice of one **lemon**
     - some salt and pepper
-
 6. Chop up the **cherry tomatoes**, **cucumber**, **lettuce**, and **avocado** how you like. Roughly dice some **coriander** and a little bit of **mint**.
-
 7. Mix together the salad veggies, quinoa, herbs, and dressing in a large bowl.
 
 ### **Service**
 
 8. On each plate, divide up the lentil hummus and spread evenly across the bottom – gourmet style.
-
 9. Dish the salad mix on top of the hummus.
 
 > Put some mixed seeds on top if you're feeling special.
 
 ---
+
 ## Notes
 
 > Best to make the lentil hummus first so its ready to go for service. You can even make the hummus in advance so making the salad on the day is that much easier.
-
-> Butterfly and fry some chicken for extra PROTEIN 💪.
+> Butterfly and fry some chicken for extra PROTEIN.

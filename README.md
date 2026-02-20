@@ -1,8 +1,8 @@
 # South Island Kitchen
 
-South Island Kitchen is a lightweight, static recipe website built with **[Eleventy (11ty)](https://www.11ty.dev/)** and deployed via **[Cloudflare Pages](https://pages.cloudflare.com/)**. The project is intentionally minimal to ensure fast load times and clean layouts.
+South Island Kitchen is a lightweight, static recipe website built with **[Eleventy (11ty)](https://www.11ty.dev/)** and deployed via **[Cloudflare Pages](https://pages.cloudflare.com/)**.
 
-This repo initially started as a simple host for markdown recipe files but has since been converted into a project for a dedicated website, which can be found at **[southislandkitchen.uk](https://southislandkitchen.uk)**.
+The current implementation follows an **editorial V2** style: typography-first, single-column layouts, minimal UI chrome, and static content only.
 
 ---
 
@@ -12,6 +12,7 @@ This repo initially started as a simple host for markdown recipe files but has s
 * Use static-site tooling only (no runtime backend)
 * Ensure fast global delivery via Cloudflare
 * Maintain full ownership of content and layout
+* Keep visual design editorial and content-focused
 
 ---
 
@@ -20,8 +21,7 @@ This repo initially started as a simple host for markdown recipe files but has s
 * **[Eleventy (11ty)](https://www.11ty.dev/)** – static site generator
 * **Markdown** – recipe content
 * **HTML / Liquid** – templating
-* **Vanilla CSS** – styling (dark-mode first)
-* **Vanilla JS** – optional client behaviours (e.g., audio player)
+* **Vanilla CSS** – editorial styling via `tokens.css` + `editorial.css`
 * **[Cloudflare Pages](https://pages.cloudflare.com/)** – hosting & CI/CD
 
 ---
@@ -34,23 +34,23 @@ This repo initially started as a simple host for markdown recipe files but has s
 │   ├── _includes/
 │   │   └── layouts/
 │   │       └── base.html
+│   ├── about/
+│   │   └── index.html
 │   ├── assets/
-│   │   ├── audio/
-│   │   ├── banner/
 │   │   ├── css/
-│   │   │   ├── main.css
-│   │   │   └── ...other css files
-│   │   ├── images/
-│   │   ├── js/
+│   │   │   ├── tokens.css
+│   │   │   └── editorial.css
 │   │   └── logo/
 │   ├── recipes/
-│   │   └── example-recipe.md
-│   └── index.html    # homepage
+│   │   ├── index.html
+│   │   ├── recipes.json
+│   │   └── *.md
+│   └── index.html
 ├── .eleventy.js
 ├── package-lock.json
 ├── package.json
 ├── README.md
-└── _site/            # build output (ignored in git)
+└── _site/
 ```
 
 Notes:
@@ -58,6 +58,8 @@ Notes:
 * `src/` is the Eleventy input directory
 * `_site/` is the generated output directory
 * Static assets are passed through from `src/assets/`
+* `src/index.html` is a simple welcome page
+* `src/recipes/index.html` is the recipe contents page
 
 ---
 
@@ -77,7 +79,7 @@ npm install
 ### Run Development Server
 
 ```bash
-npx eleventy --serve
+npm run dev
 ```
 
 This will start a local server (typically at `http://localhost:8080`) with live rebuilds on file changes.
@@ -93,12 +95,6 @@ Key behaviours:
 * Input directory: `src/`
 * Output directory: `_site/`
 * Static assets copied via `addPassthroughCopy("src/assets")`
-
-If assets do not load in production, confirm:
-
-* Asset paths are absolute (`/assets/css/main.css`)
-* Passthrough copy is configured
-* Only **one** `module.exports` block exists in `.eleventy.js`
 
 ---
 
@@ -121,7 +117,7 @@ Deployment is fully automated via GitHub integration.
   _site
   ```
 
-On each push to the master branch, Cloudflare Pages rebuilds and deploys the site.
+On each push to the configured production branch, Cloudflare Pages rebuilds and deploys the site.
 
 ---
 
@@ -135,9 +131,6 @@ Example:
 ---
 title: Sourdough
 tags: [baking]
-headerImage: /assets/images/example.jpeg
-headerImageAlt: example image alt text
-audio: /assets/audio/example.ogg
 ---
 
 ## Ingredients

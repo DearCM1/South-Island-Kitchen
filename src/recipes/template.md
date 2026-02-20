@@ -1,52 +1,55 @@
 ---
-title: Recipe Name 🥦
+title: Recipe Name
 tags: []
-imageHeader:
 ---
-(0.0⭐️) 💚 
+(0.0⭐️) 💚
 
 Short description of recipe and what might go with it
 
 ---
+
 ## At A Glance
 
-| 🥦       | -              |
+| Quick    | Look           |
 | -------- | -------------- |
 | Serves   | x              |
 | Time     | x hrs x mins   |
 | Calories | x kcal/serving |
 
 ---
+
 ## What You'll Need
 
 ### **Main**
 
-Ingredients | Quantity
--- | --
-|
+| Ingredients | Quantity |
+| ----------- | -------- |
+|             |          |
 
 ### **Sauce**
 
-Ingredients | Quantity
--- | --
-|
+| Ingredients | Quantity |
+| ----------- | -------- |
+|             |          |
 
 ---
+
 ## Method
 
 ### **Preparation**
 
-1. method
+1. Method.
 
 ### **Cooking**
 
-2. method
+2. Method.
 
 ### **Service**
 
-3. method
+3. Method.
 
 ---
+
 ## Notes
 
-> note
+> Note.
