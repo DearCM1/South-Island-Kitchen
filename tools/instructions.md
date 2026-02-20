@@ -53,7 +53,13 @@ This allows the script to be executed directly.
 
 ## 3. Repository layout convention
 
-Example structure in this repo:
+Current structure in this repo:
+
+```bash
+AGENTS.md
+```
+
+Optional hierarchical extension (if you add local instruction scopes later):
 
 ```bash
 AGENTS.md
