@@ -23,11 +23,11 @@ Bulk cook this puppy for a storm lock in, you won't regret it.
 | Ingredients                          | Quantity      |
 | ------------------------------------ | ------------- |
 | Extra Virgin Olive Oil               | 4 tablespoons |
-| Medium Carrots (peeled and sliced)   | x8            |
-| Parsnips (peeled and sliced)         | x6            |
-| Celery Ribs (sliced)                 | x6            |
+| Medium Carrots (peeled and diced)    | x8            |
+| Parsnips (peeled and diced)          | x6            |
+| Celery Ribs (diced)                  | x6            |
 | Medium Onion (diced)                 | x3            |
-| Leek (halved, sliced, and rinsed)    | x3            |
+| Leek (rinsed, halved, and sliced)    | x3            |
 | Garlic Cloves (minced)               | x6            |
 | Kosher Salt                          | to taste      |
 | Freshly Ground Black Pepper          | to taste      |
@@ -52,7 +52,7 @@ Bulk cook this puppy for a storm lock in, you won't regret it.
 ### **Cooking**
 
 3. Heat the **olive oil** in a stock pot (6 L or bigger) over medium heat and add the bulk vegeables, cook for **5–6 minutes**, stirring frequently, layer in some **salt**.
-4. Add the **garlic**, more **salt**, and **pepper** (Note 1).
+4. Crush in the the **garlic** with a mincer, with some more **salt**, and **pepper** and cook for another minute (Note 1).
 5. Add the **wild rice**, **thyme**, **tarragon**, **bay leaves**, and **broth**. Bring to the boil, then reduce the heat to low and cover the pot.
 6. Simmer for **30 minutes**, stirring occasionally.
 7. Add the **chicken**, re-cover, and simmer for a further **20 minutes**, or until the chicken is fully cooked and the rice is tender (Note 2).
